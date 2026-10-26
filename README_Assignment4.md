@@ -11,9 +11,3 @@ This project extends Assignment 3. Open `index.html` in a browser (or use VS Cod
 
 Main logic: `js/script.js`; styles: `css/style.css`. All original Assignment 3 HTML pages and images remain.
 
-## Before submission
-- Test each feature in the browser and take screenshots for the report.
-- Push the updated project to your shared GitHub repository and enable GitHub Pages (or deploy on Netlify).
-- Add your actual deployed URL to your report.
-- Submit the ZIP and a report containing team name, members, group, objective, task-by-task steps, screenshots, final reflection and deployed URL.
-- Both teammates should understand and be able to explain all features during defense.
